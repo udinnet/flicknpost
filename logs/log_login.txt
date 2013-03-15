@@ -1,0 +1,6 @@
+2012-06-29 14:41:02 | Clear | Log Cleared
+2012-06-29 14:41:03 | Read | Log Read
+2012-06-29 14:41:08 | Read | Log Read
+2012-06-29 14:41:12 | Logout | udinnet logged out
+2012-10-25 11:59:47 | Login | udinnet logged in
+2012-10-25 12:00:58 | Logout | udinnet logged out
